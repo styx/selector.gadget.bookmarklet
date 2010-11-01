@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" id="extensions:add-to-google-bookmarks">
+<widget xmlns="http://www.w3.org/ns/widgets" id="extensions:selector-gadget-bookmarklet">
   <name>Selector gadget</name>
   <description>A simple bookmarklet for 'Selector gadget' tool</description>
   <author href="http://github.com/styx" email="styx.mp@gmail.com">Mikhail S. Pobolovets</author>
